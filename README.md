@@ -1,7 +1,7 @@
 # Lightbox Portfolio
 A simple way to use lightbox with Cube Portfolio - Responsive jQuery Grid Plugin. Cube Portfolio is a jQuery grid plugin that provides powerful portfolio system, beautiful animated filtering, custom captions and it’s perfect for portfolio projects, horizontal slider, images gallery and etc.
 
-![](http://i.picasion.com/pic86/bc9b5a2cbf333e9cb9199a130440afa1.gif)
+![](https://uploaddeimagens.com.br/imagens/picasion-com_bc9b5a2cbf333e9cb9199a130440afa1-gif)
 
 ## Requirements
 
