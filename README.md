@@ -45,7 +45,7 @@ In the end, when you'll create your portfolio layout, you just have to put this 
 <a class="images/{image_name}.jpg" class="cbp-caption cbp-lightbox">
 ```
 
-It will create a directory folder called `lightbox-portfolio*` inside the current folder.
+It will create a directory folder called `lightbox-portfolio*` inside the current folder.<br>
 **OBS.: You should copy this folder to your project and use with the tutorial above.**
 
 ```
