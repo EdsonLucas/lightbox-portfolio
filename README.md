@@ -46,7 +46,7 @@ In the end, when you'll create your portfolio layout, you just have to put this 
 ```
 
 It will create a directory folder called `lightbox-portfolio*` inside the current folder.<br>
-**OBS.: You should copy this folder to your project and use with the tutorial above.**
+**OBS.: You should copy this folder to your project and use like the tutorial above.**
 
 ```
 lightbox-portfolio
