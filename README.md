@@ -23,7 +23,7 @@ After this, you have to add this tag in your css area.
 <link href="cubeportfolio/cubeportfolio.min.css" rel="stylesheet" type="text/css">
 ```
 
-And you have to add these tags in your js area (after the JQuery file).
+Now, you have to add these tags in your js area (after the JQuery file).
 
 ```
 <!-- cubeportfolio -->
@@ -31,7 +31,7 @@ And you have to add these tags in your js area (after the JQuery file).
 <script src="cubeportfolio/main.js" type="text/javascript"></script>
 ```
 
-To make this simple, you can add this code in the end of your portfolio file.
+To make this simple, you must add this code in the end of your portfolio file (if you have a stylized portfolio, you do not want to break his layout, do you?).
 
 ```
 <div id="js-grid-full-width" class="cbp" style="display: none;">
@@ -40,7 +40,7 @@ To make this simple, you can add this code in the end of your portfolio file.
 </div>
 ```
 
-In the end, when you'll create your portfolio layout, you just have to put this class in your `<a>` tag.
+And finally, when you create your portfolio layout, you just have to put this class in your `<a>` tag.
 ```
 <a class="images/{image_name}.jpg" class="cbp-caption cbp-lightbox">
 ```
