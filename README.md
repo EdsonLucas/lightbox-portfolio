@@ -42,7 +42,7 @@ To make this simple, you must add this code in the end of your portfolio file (i
 
 And finally, when you create your portfolio layout, you just have to put this class in your `<a>` tag.
 ```
-<a class="images/{image_name}.jpg" class="cbp-caption cbp-lightbox">
+<a href="images/{image_name}.jpg" class="cbp-caption cbp-lightbox">
 ```
 
 It will create a directory folder called `lightbox-portfolio*` inside the current folder.<br>
